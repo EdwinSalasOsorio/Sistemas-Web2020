@@ -1,0 +1,12 @@
+1.-Clonar.
+    git clone {url_del_repositor}
+2.- Agregar cambios.
+    git add -A 
+3.-Hacer comit, guardar los cambios en el repositorio
+    git comit -m "Mensaje de cambios"
+4.-Enviar los cambios al repositorio remoto.
+    git pull
+5.-Obtener cambios del repositorio remoro.
+    git pull
+6.-Observar los cambios en el repositorio local.
+    git status
